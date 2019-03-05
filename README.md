@@ -1,6 +1,6 @@
 ##  Optical Character Recognition
 
-## NOTE:- I downloaded this image from Google,if you have any query or problem i can remove it, i hust used it for Educational purpose.
+## NOTE:- I downloaded this image from Google,if you have any query or problem i can remove it, i just used it for Educational purpose.
 
 ### Code Requirements
 - Pytesseract
