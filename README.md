@@ -26,3 +26,5 @@
 
 
 ## Just follow☝️ me and Star⭐ my repository 
+## BUY This project which is implemented in WebApp using Flask(FULL WORKING) 
+## HERE is [STORE](https://www.instamojo.com/kushalbhavsar1820/ocr-webapp-using-flask-python)
